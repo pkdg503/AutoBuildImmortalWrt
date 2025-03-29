@@ -1,5 +1,6 @@
 #!/bin/sh
 # 99-custom.sh - 单网口旁路由专用配置
+# v2.0单网口旁路由
 
 LOGFILE="/tmp/uci-defaults-log.txt"
 echo "=== 新一轮配置开始 $(date) ===" >> $LOGFILE
